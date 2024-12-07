@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\acala\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\acala\\.nuget\\packages"
+    ]
+  }
+}
